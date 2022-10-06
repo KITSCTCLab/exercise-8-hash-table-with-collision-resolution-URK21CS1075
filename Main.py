@@ -1,4 +1,4 @@
-mport re
+import re
 
 def display_hash(hashtable) -> None:
 	for keyvalue in range(len(hashtable)):
